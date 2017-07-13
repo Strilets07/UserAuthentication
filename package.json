@@ -1,0 +1,13 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
